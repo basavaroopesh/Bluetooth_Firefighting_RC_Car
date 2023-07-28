@@ -1,1 +1,2 @@
 # Bluetooth_RC_Car
+A fire fighter's work entails detecting and estinguishing fires. In this rapidly evolving technological age, the world is gradually moving toward automated systems. Firefighters, on the other hand, are often in danger of losing their lives. The majority of the deaths were caused by toxic gases found in the firefighting environment. As a result, in order to resolve these issues, our systems was developed.
